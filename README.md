@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório do curso de Git e GitHub
 
- Repositorio criado durante aula ao vivo!
+## Links Úteis
 
-Essa linha  eu adicionei diretamente no site!
+[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
